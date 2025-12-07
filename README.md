@@ -1,6 +1,6 @@
 # Kundan Kumar - Portfolio Website
 
-![Portfolio Screenshot](images/web-view.png)
+![Portfolio Screenshot](web-view.png)
 
 A modern, responsive portfolio website showcasing my skills, projects, and experience as a Frontend Developer. Built with HTML, CSS, and JavaScript.
 
